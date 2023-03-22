@@ -1,0 +1,31 @@
+.tasks {
+    list-style-type:none ;
+}
+.tasks > div {
+    margin-top: 10px;
+    background-color: rgb(238, 234, 201);
+}
+.tasks > div > i {
+    text-align: center;
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.tasks > div > i:hover {
+    color:red;
+    background-color: black;
+    border-radius: 50%;
+}
+.tasks > div:hover {
+    background-color: rgb(103, 135, 162);
+}
+.addbtn {
+    border-radius: 30px;
+    background-color: rgb(238, 234, 201);
+    color:rgb(0, 0, 0);
+    width: 90px;
+}
+.addbtn:hover {
+    background-color: rgb(103, 135, 162);
+    color:black;
+}
