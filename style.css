@@ -1,0 +1,21 @@
+.tasks > div {
+    margin-top: 10px;
+    background-color: rgb(238, 234, 201);
+}
+.tasks > div > lord-icon {
+    text-align: center;
+    float: right;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+.tasks > div:hover {
+    background-color: rgb(162, 199, 239);
+}
+.addbtn {
+    border-radius: 30px;
+    background-color: rgb(238, 234, 201);
+    width: 90px;
+}
+.addbtn:hover {
+    background-color: rgb(162, 199, 239);
+}
