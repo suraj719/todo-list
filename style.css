@@ -6,7 +6,7 @@
     text-align: center;
     float: right;
     margin-top: 7px;
-    margin-right: 20px;
+    margin-right: 20px; 
 }
 .tasks > div:hover {
     background-color: rgb(162, 199, 239);
